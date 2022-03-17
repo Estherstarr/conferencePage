@@ -10,7 +10,7 @@
 
 ## Live Demo  
 
-[Live Demo Link](https://estherstarr.github.io/personalPortfolio/)
+[Live Demo Link](https://estherstarr.github.io/conferencePage/)
 
 
 ### Prerequisites
