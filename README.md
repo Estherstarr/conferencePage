@@ -11,6 +11,7 @@
 ## Live Demo  
 
 [Live Demo Link](https://estherstarr.github.io/conferencePage/)
+[Live Video Link](https://www.loom.com/share/eff42c9ae1b04f2cb7e9c2534e3a785c)
 
 
 ### Prerequisites
