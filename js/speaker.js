@@ -2,7 +2,7 @@ const speakersData = [
   {
     id: 1,
     name: 'Oprah Winfrey',
-    photo: 'images/speakers/oprah.jpeg',
+    photo: 'images/speakers/Linda.png',
     description: 'CEO OWN and Philanthropist',
     about:
       'Oprah Winfrey famously Business Owner and philanthropy over the years',
@@ -10,7 +10,7 @@ const speakersData = [
   {
     id: 2,
     name: 'Amaka Osakwe',
-    photo: 'images/speakers/amaka-osakwe.jpg',
+    photo: 'images/speakers/Linda.png',
     description: 'Enterpreneur and Fashion Designer',
     about:
       'Amaka Osakwe is a Nigerian fashion designer and creator of the African-based fashion label named Maki Oh.',
@@ -25,7 +25,7 @@ const speakersData = [
   {
     id: 4,
     name: 'Luvvie Ajayi',
-    photo: 'images/speakers/luvvie.jpeg',
+    photo: 'images/speakers/Linda.png',
     description: 'Writer ',
     about:
       'Changing the world by owning up to the truth and encouraging other to do so',
@@ -33,7 +33,7 @@ const speakersData = [
   {
     id: 5,
     name: 'Shola Eweniyi',
-    photo: 'images/speakers/shola2.jpeg',
+    photo: 'images/speakers/Linda.png',
     description: 'Co-founder and CEO of Paystack',
     about:
       'Shola is Nigerian software engineer and entrepreneur focused on building payment solutions',
@@ -42,7 +42,7 @@ const speakersData = [
   {
     id: 6,
     name: 'Onomeh Onwuanibe',
-    photo: 'images/speakers/beyonce.jpeg',
+    photo: 'images/speakers/Linda.png',
     description: 'Founder, GGC',
     about: 'Software Engineer.',
   },
