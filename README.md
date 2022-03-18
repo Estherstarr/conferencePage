@@ -2,8 +2,6 @@
 
 > This is a website for an upcoming Womens Conference in April . This webite showcases the various topics for each day of the event, the speakers who will be attending and how to actively participate in the conference.
 
-##
-
 ## Built With
 
 - HTML5
@@ -12,16 +10,30 @@
 
 ## Live Demo  
 
-[Live Demo Link](https://estherstarr.github.io/personalPortfolio/)
+[Live Demo Link](https://estherstarr.github.io/conferencePage/)
+[Live Video Link](https://www.loom.com/share/eff42c9ae1b04f2cb7e9c2534e3a785c)
 
 
 ### Prerequisites
 
-Create Github repository
-Have VSCode or choice text editor installed
-Have Git installed
-Good Knowledge of Linters
-Good knowledge og Gitpages
+- Git/Github
+- VSCode or another equivalent tool
+- Html, Css and Javascript
+
+### Install
+
+- npm install -g @lhci/cli@0.7.x
+- npm install --save-dev hint@6.x
+-  npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+
+### Run tests
+
+Run the following tests:
+
+- npx hint .
+- npx stylelint "**/*.{css,scss}"
+- npx eslint .
+
 
 ### Setup
 Git clone - https://github.com/Estherstarr/conferencePage
@@ -49,6 +61,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Original design idea by Cindy Shin in Behance.
