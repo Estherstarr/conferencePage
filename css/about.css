@@ -56,7 +56,6 @@ header {
 /* popup for mobile menu */
 .overlay {
   background-color: #941f60;
-  background-image: url("../images/popup-background.svg");
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
